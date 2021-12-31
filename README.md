@@ -2,6 +2,4 @@
 #Stock Price Prediction using ML XGBoost
 
 #Install required modules
-!pip install scikit-learn xgboost
-!pip install yfinance
-!pip install finta
+pip install -r Requirements.txt
